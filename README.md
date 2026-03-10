@@ -19,3 +19,4 @@ in any web browser.
 ## Project URL
 
 https://github.com/Shakee01/single-page-cv
+https://roadmap.sh/projects/single-page-cv

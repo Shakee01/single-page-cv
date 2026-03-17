@@ -17,12 +17,14 @@ The project focuses on proper HTML structure without any styling, preparing the 
 ## Preview
 
 ### Desktop View
-
-![Desktop](./desktop.png)
+<p align="center">
+  <img src="./desktop.png" alt="Desktop view of the Single-Page CV project" width="800">
+</p>
 
 ### Mobile View
-
-![Mobile](./mobile.png)
+<p align="center">
+  <img src="./mobile.png" alt="Mobile view of the Single-Page CV project" width="300">
+</p>
 
 ---
 
